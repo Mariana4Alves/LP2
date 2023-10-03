@@ -1,0 +1,24 @@
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\bin\Debug\PMetodos.exe.config
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\bin\Debug\PMetodos.exe
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\bin\Debug\PMetodos.pdb
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.csprojAssemblyReference.cache
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.Properties.Resources.resources
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.GenerateResource.cache
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.CoreCompileInputs.cache
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.exe
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.pdb
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio1.resources
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio2.resources
+C:\Users\0030482313004\source\repos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio3.resources
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\bin\Debug\PMetodos.exe.config
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\bin\Debug\PMetodos.exe
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\bin\Debug\PMetodos.pdb
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio1.resources
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio2.resources
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.frmExercicio3.resources
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.Properties.Resources.resources
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.GenerateResource.cache
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.exe
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 7\PMetodos\PMetodos\PMetodos\obj\Debug\PMetodos.pdb

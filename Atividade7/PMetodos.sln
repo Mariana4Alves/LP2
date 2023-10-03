@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PMetodos", "PMetodos\PMetodos.csproj", "{9F45B5BA-9E61-4CFC-8507-2108C564710D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F45B5BA-9E61-4CFC-8507-2108C564710D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F45B5BA-9E61-4CFC-8507-2108C564710D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F45B5BA-9E61-4CFC-8507-2108C564710D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F45B5BA-9E61-4CFC-8507-2108C564710D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4A44D75-57D0-4E08-AED3-7F8BF1A016A7}
+	EndGlobalSection
+EndGlobal
