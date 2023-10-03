@@ -1,0 +1,20 @@
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe.config
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.pdb
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csprojAssemblyReference.cache
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Form1.resources
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Properties.Resources.resources
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.GenerateResource.cache
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.CoreCompileInputs.cache
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.exe
+C:\Users\0030482313004\source\repos\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.pdb
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe.config
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.exe
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\bin\Debug\Ptriangulo.pdb
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.AssemblyReference.cache
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Form1.resources
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.Properties.Resources.resources
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.GenerateResource.cache
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.csproj.CoreCompileInputs.cache
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.exe
+C:\Users\maria\Documents\Faculdade\LP2\Atividade 4\Ptriangulo\Ptriangulo\obj\Debug\Ptriangulo.pdb
